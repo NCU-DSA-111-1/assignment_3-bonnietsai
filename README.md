@@ -1,1 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9462670&assignment_repo_type=AssignmentRepo)
+# HW4
+##### 電機4B 108501537 蔡雨蓁
+
+## Compile & Run
+```sh
+# Compile
+g++ main hw4_main.cpp
+# Run
+./a.out
+```
