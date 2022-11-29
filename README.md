@@ -4,7 +4,7 @@
 ## Compile & Run
 ```sh
 # Compile
-g++ main hw4_main.cpp
+g++ hw4_main.cpp
 # Run
 ./a.out
 ```
